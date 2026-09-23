@@ -4,6 +4,10 @@ In-app guidance for **Google Data Studio**, built with the **Whatfix Community e
 
 > Google Data Studio is free and powerful. It is also a blank canvas — and a blank canvas is where new users quit.
 
+### ▶ Start here — [read the 13-page case study (PDF)](case-study.pdf)
+
+Every step, the reasoning behind each choice, and the exact on-screen copy the user reads. It opens straight in your browser.
+
 ---
 
 ## What is in this repo
